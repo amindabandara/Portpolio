@@ -35,6 +35,7 @@ export const PROJECTS = [
     description:
       "A AI Project for identify edible mushrooms using other mushrooms.",
     technologies: ["Python", "Tensorflow", "React", "deep learning", "MongoDB"],
+    link:"https:github.com/JoshuaAmarasinghe/Aspirus-Learning-Management-System",
   },
   {
     title: "Plante app",
