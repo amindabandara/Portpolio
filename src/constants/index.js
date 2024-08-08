@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import project3 from "../assets/portpolio.png";
 import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am enthusiastic about the opportunity presented by this position. I have recently completed my Bachelor of Science (Hons) in Information Technology, specializing in the field of information technology.  I gained valuable experience as an intern software engineer during a 16 month tenure at Jay Jay Mills Lanka Pvt Ltd.
